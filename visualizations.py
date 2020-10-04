@@ -27,7 +27,7 @@ def Correlator(df):
     
     st.pyplot(f)
     st.markdown("### **INSIGHTS**")
-    st.markdown("#### We can seee there is a clear correlation between wind speeds.  ")
+    st.markdown("#### We can see there is a clear correlation between wind speeds.  ")
     st.markdown("#### In addition we can see a clear negative correlation between winds and pressure.")
     st.markdown("#### This is evident because hurricanes occur when there is lower pressure.")
     st.markdown("#### We also see there's a correlation between maximum wind speed and wind speeds.")
@@ -81,6 +81,5 @@ def countplotter(y_values):
     f, ax = plt.subplots(figsize=(20, 9))
     sns.countplot(x=y_values)
     st.pyplot(f)
-    st.markdown("### **INSIGHTS**")
-    st.markdown("#### Hence, we can conclude that there is a strong correlation between the wind speeds and the sustained wind.")
-    st.markdown("#### Hurricanes are generated generally when there are high sustained wind speeds so we can see that when directional winds increase, there is a higher chance of a storm")
+    
+    
