@@ -13,7 +13,7 @@ The final best track for this system will be updated when it becomes available.<
 Atlantic Data: https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2019-052520.txt<br />
 Pacific Data: https://www.nhc.noaa.gov/data/hurdat/hurdat2-nepac-1949-2019-042320.txt<br />
 
-The status of system labels we are loking at are:<br />
+The status of system labels we are looking at are:<br />
 HU – Tropical cyclone of hurricane intensity (> 64 knots)<br />
 TS – Tropical cyclone of tropical storm intensity (34-63 knots)<br />
 TD – Tropical cyclone of tropical depression intensity (< 34 knots)<br />
