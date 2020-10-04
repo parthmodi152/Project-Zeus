@@ -28,7 +28,7 @@ dataset_name = st.sidebar.selectbox(
 
 if st.checkbox("About *Read*"):
     st.write("This web app shows the data used and analysis done to determine the target for our model")
-    st.write("The model can predit the intensity of the hurricane with very high accuracy")
+    st.write("The model can predict the intensity of the hurricane with very high accuracy")
     st.write("The default dataset selected is 'Atlantic, you can change it from the side pane (click the top left arrow if you're on your phone)")
 
 
